@@ -23,7 +23,8 @@ export default () => ({
       python: ["django", "flask"],
       misc: ["bash", "systemd", "supervisor"]
     },
-    server_administration: ["kubernetes", "k3s", "docker", "docker_swarm"],
+    devops: ["kubernetes", "k3s", "docker", "docker_swarm"],
+    pm_practices: ["Agile", "Kanban", "Scrum"],
     machine_learning: ["tensorflow", "pytorch"],
     databases: ["mysql", "mongodb", "postgres", "redis"]
   }
