@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Brandutchmen/Brandutchmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I am currently majoring in Computer Science from North Dakota State University (Class of 2021) 
 
-Here are some ideas to get you started:
+```js
+export default () => ({
+  first_name: "brandon",
+  last_name: "young",
+  url: "https://brandonyoung.dev",
+  hobbies: [
+    "tech", "music", "hiking", "aviation"
+  ],
+  pronouns: "he" | "him",
+  technologies: {
+    frontend: {
+      js: ["vue", "angular", "react"],
+      css: ["bootstrap", "bulma", "bootstrap"]
+    },
+    backend: {
+      php: ["laravel", "lumen"],
+      js: ["node", "express"],
+      csharp: ["asp.net_core"],
+      python: ["django", "flask"],
+      misc: ["bash", "systemd", "supervisor"]
+    },
+    server_administration: ["kubernetes", "k3s", "docker", "docker_swarm"],
+    machine_learning: ["tensorflow", "pytorch"],
+    databases: ["mysql", "mongodb", "postgres", "redis"]
+  }
+});
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
