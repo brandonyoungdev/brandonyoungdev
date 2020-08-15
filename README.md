@@ -10,7 +10,7 @@ export default () => ({
   hobbies: [
     "tech", "music", "hiking", "aviation"
   ],
-  pronouns: "he" | "him",
+  pronouns: "he" | "him" | "his",
   technologies: {
     frontend: {
       js: ["vue", "angular", "react"],
