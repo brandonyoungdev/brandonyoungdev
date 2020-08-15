@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍🎓 I am currently majoring in Computer Science from North Dakota State University (Class of 2021) 
+I am currently majoring in Computer Science from North Dakota State University (Class of 2021) 👨‍🎓 
 
 ```js
 export default () => ({
