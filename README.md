@@ -23,11 +23,21 @@ export default () => ({
       python: ["django", "flask"],
       misc: ["bash", "systemd", "supervisord"]
     },
-    webservers: ["nginx", "apache", "caddy"],
-    devops: ["kubernetes", "k3s", "docker", "docker_swarm"],
-    pm_practices: ["agile", "kanban", "scrum"],
-    machine_learning: ["tensorflow", "pytorch"],
-    databases: ["mysql", "mongodb", "postgres", "redis"]
+    webservers: [
+      "nginx", "apache", "caddy"
+    ],
+    devops: [
+      "kubernetes", "k3s", "docker", "docker_swarm"
+    ],
+    pm_practices: [
+      "agile", "kanban", "scrum"
+    ],
+    machine_learning: [
+      "tensorflow", "pytorch"
+    ],
+    databases: [
+      "mysql", "mongodb", "postgres", "redis"
+    ]
   }
 });
 ```
