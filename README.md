@@ -24,7 +24,7 @@ export default () => ({
       misc: ["bash", "systemd", "supervisor"]
     },
     devops: ["kubernetes", "k3s", "docker", "docker_swarm"],
-    pm_practices: ["Agile", "Kanban", "Scrum"],
+    pm_practices: ["agile", "kanban", "scrum"],
     machine_learning: ["tensorflow", "pytorch"],
     databases: ["mysql", "mongodb", "postgres", "redis"]
   }
