@@ -21,8 +21,9 @@ export default () => ({
       js: ["node", "express"],
       csharp: ["asp.net_core"],
       python: ["django", "flask"],
-      misc: ["bash", "systemd", "supervisor"]
+      misc: ["bash", "systemd", "supervisord"]
     },
+    webservers: ["nginx", "apache", "caddy"],
     devops: ["kubernetes", "k3s", "docker", "docker_swarm"],
     pm_practices: ["agile", "kanban", "scrum"],
     machine_learning: ["tensorflow", "pytorch"],
