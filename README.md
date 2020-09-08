@@ -29,7 +29,7 @@ export default () => ({
     devops: [
       "kubernetes", "k3s", "docker", "docker_swarm"
     ],
-    development_practices: [
+    practices: [
       "agile", "kanban", "scrum"
     ],
     machine_learning: [
