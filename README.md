@@ -13,7 +13,7 @@ export default () => ({
   pronouns: "he" | "him" | "his",
   technologies: {
     frontend: {
-      js: ["vue", "angular", "react"],
+      js: ["vue", "react", "angular"],
       css: ["bootstrap", "bulma"]
     },
     backend: {
