@@ -7,6 +7,10 @@ export default () => ({
   first_name: "brandon",
   last_name: "young",
   url: "https://brandonyoung.dev",
+  education: {
+    degree: "BS Computer Science",
+    university: "North Dakota State University"
+  },
   hobbies: [
     "tech", "music", "hiking", "aviation"
   ],
