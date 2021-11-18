@@ -16,7 +16,7 @@ export default () => ({
   technologies: {
     frontend: {
       js: ["vue", "react", "angular"],
-      css: ["bootstrap", "bulma"]
+      css: ["tailwind", "bulma"]
     },
     backend: {
       php: ["laravel", "lumen"],
