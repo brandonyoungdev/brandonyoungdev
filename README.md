@@ -7,8 +7,8 @@ export default () => ({
   last_name: "young",
   url: "https://brandonyoung.dev",
   education: {
-    degree: "BS Computer Science",
-    university: "North Dakota State University"
+    degree: "bs computer science",
+    university: "north dakota state university"
   },
   hobbies: [
     "tech", "music", "hiking", "aviation"
