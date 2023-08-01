@@ -1,5 +1,16 @@
 ### Hi there 👋
+<br>
 
+<a href="https://github.com/brandutchmen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS&langs_count=8&theme=transparent" />
+</a>
+&nbsp;
+<a href="https://github.com/brandutchmen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandutchmen&hide=contribs&show_icons=true&count_private=true&show_icons=true&line_height=29&hide_rank=true&include_all_commits=true&theme=transparent" alt="Brandon's GitHub Stats" />
+</a>
+<br>
+<br>
+<br>
 
 ```js
 export default () => ({
