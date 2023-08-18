@@ -2,7 +2,7 @@
 <br>
 
 <a href="https://github.com/brandutchmen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS,Blade,Shell&langs_count=8&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&layout=compact&hide=Processing,Less,SCSS,Dockerfile,HTML,CSS,Blade&langs_count=8&theme=transparent" />
 </a>
 &nbsp;
 <a href="https://github.com/brandutchmen">
