@@ -15,6 +15,3 @@
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Brandutchmen&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Brandutchmen&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
