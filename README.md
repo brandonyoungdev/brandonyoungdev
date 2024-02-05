@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working at [Apple](https://apple.com)<br>🌱 I’m currently learning Go<br>💬 Ask me about Go, GraphQL, or Laravel
+🔭 I’m currently working at [Apple](https://apple.com)<br>🌱 I’m currently learning Wayland<br>💬 Ask me about Go, GraphQL, Neovim, or Laravel
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade)
