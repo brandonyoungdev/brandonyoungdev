@@ -4,7 +4,7 @@
 🔭 I’m currently working at [Apple](https://apple.com)<br>🌱 I’m currently learning Wayland<br>💬 Ask me about Go, GraphQL, Neovim, or Laravel
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade,shell,makefile,arduino,dockerfile&size_weight=0.8&count_weight=0.2)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brandutchmen&theme=dark&hide_border=true)
 
 # 💻 My Favorite Tech Stack:
