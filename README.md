@@ -29,6 +29,4 @@
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=brandutchmen&icon=0&color=0)](https://brandonyoung.dev)
