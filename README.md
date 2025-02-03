@@ -4,8 +4,8 @@
 🔭 Curiosity-driven development. Let's build cool stuff<br>🌱 I’m learning WASM<br>💬 Ask me about Go, GraphQL, Neovim, OpenTelemetry, or Laravel
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandutchmen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade,shell,makefile,arduino,dockerfile&size_weight=0.8&count_weight=0.2)
-![](https://github-readme-streak-stats.herokuapp.com/?user=brandutchmen&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonyoungdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade,shell,makefile,arduino,dockerfile&size_weight=0.8&count_weight=0.2)
+![](https://github-readme-streak-stats.herokuapp.com/?user=brandonyoungdev&theme=dark&hide_border=true)
 
 # 💻 My Favorite Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
