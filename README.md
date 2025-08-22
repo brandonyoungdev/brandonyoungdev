@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### I like to build and ship code
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonyoungdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade,shell,makefile,arduino,dockerfile&size_weight=0.8&count_weight=0.2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonyoungdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=HTML,CSS,blade,shell,makefile,arduino,dockerfile,javascript&size_weight=0.8&count_weight=0.2)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brandonyoungdev&theme=dark&hide_border=true)
 
 ### Places I've been
